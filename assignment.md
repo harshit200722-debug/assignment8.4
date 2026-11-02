@@ -1,11 +1,12 @@
-name=Assignment-1.1.md
-Assignment 1.1 — How a Website Works[cite: 1]
-Task: Explain in a single paragraph how a website opens on the screen after typing a URL.[cite: 1]
-What to do:
+name=Assignment-8.4.md
+Assignment 8.4 — Dashboard with Grid and Flexbox[cite: 39]
+What to build: A dashboard with an outer Grid layout and inner Flexbox cards[cite: 39].
+Steps:
 
-1. Understand the basic roles of browser, client, server, and database.[cite: 1]
-2. Write the meanings of HTTP and HTTPS.[cite: 1]
-3. Explain the request-response cycle.[cite: 1]
-4. Write the differences between a static and a dynamic website.[cite: 1]
-5. Open Chrome DevTools and inspect requests in the Network tab of any website.[cite: 1]
-Submission: An explanatory paragraph and a screenshot of the Network tab.[cite: 1]
+1. Create a header, sidebar, and main content in the dashboard[cite: 39].
+2. Use CSS Grid for the outer page[cite: 39].
+3. Add 4 statistic cards in the main area[cite: 39].
+4. Align icons, titles, and numbers inside the cards using Flexbox[cite: 39].
+5. Add a small table or recent activity section[cite: 39].
+6. Check the layout using the DevTools Grid inspector[cite: 39].
+Submission: Complete dashboard page and CSS code showing both Grid and Flexbox[cite: 39].
